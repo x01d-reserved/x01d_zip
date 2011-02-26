@@ -7,7 +7,10 @@ Usage
 -----
 Put the script into target directory and run http://server/path/to/script/x01d_zip.php 
 Result will be available at http://server/path/to/script/archive.zip
-Attention! Don't forget to remove the script and archive after downloading!
+
+Attention! 
+----------
+Don't forget to remove the script and archive after downloading!
 
 Author
 -------
